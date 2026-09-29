@@ -1,3 +1,9 @@
+/***
+Autor.: L. Felipe Craveiro;
+Data.: 29/09/2026;
+Objetivo.: Fazer um programa para calcular média salarial, média de filhos, percentual de pessoas que ganham menos de mil, 
+exibir resultados e maior salário, utilizando somente ponteiros e alocação de memória dinâmica.
+***/
 #include <stdio.h>
 #include <stdlib.h>
 
